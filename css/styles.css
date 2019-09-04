@@ -1,0 +1,20 @@
+body{
+    color: rgb(48, 3, 133);
+    font-family: arial;
+    margin: 0px
+}
+div{
+    background-color: aqua;
+    border: dashed 10px brown
+    }
+.second-div{
+    background-color: blueviolet
+}
+
+#second-li{
+    font-size: 10px
+}
+img {
+    width: 200px;
+    border-radius: 50px
+}
